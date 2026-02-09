@@ -1,0 +1,15 @@
+my-geo-project/
+├── README.md
+├── .gitignore
+├── requirements.txt
+├── data/
+│ ├── raw/
+│ └── processed/
+├── src/
+│ ├── data_processing.py
+│ └── analysis.py
+├── notebooks/
+│ └── exploratory_analysis.ipynb
+└── outputs/
+├── figures/
+└── results/
