@@ -9,3 +9,19 @@ Tasks:
 5. Create a .gitignore file appropriate for Python/geospatial work
 6. Commit and push your changes to GitHub
 Expected outcome: A properly structured repository on GitHub with initial project setup.
+
+my-geo-project/
+├── README.md
+├── .gitignore
+├── requirements.txt
+├── data/
+│ ├── raw/
+│ └── processed/
+├── src/
+│ ├── data_processing.py
+│ └── analysis.py
+├── notebooks/
+│ └── exploratory_analysis.ipynb
+└── outputs/
+├── figures/
+└── results/
