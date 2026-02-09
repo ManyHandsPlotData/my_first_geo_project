@@ -10,6 +10,8 @@ Tasks:
 6. Commit and push your changes to GitHub
 Expected outcome: A properly structured repository on GitHub with initial project setup.
 
+```
+# DIRECTORY
 my-geo-project/    
 ├── README.md	
 ├── .gitignore	
@@ -24,4 +26,5 @@ my-geo-project/
 │   └── exploratory_analysis.ipynb	
 └── outputs/	
     ├── figures/	
-    └── results/	
+    └── results/
+```
